@@ -61,7 +61,6 @@ function App() {
             {letterVisible && (
               <article className="letter" aria-hidden={phase === 'closed'}>
                 <div className="letter-inner">
-                  <p className="letter-kicker">Invitație</p>
                   <div className="ornament" aria-hidden="true">
                     <span className="ornament-line" />
                     <svg
