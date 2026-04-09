@@ -89,7 +89,7 @@
   width: min(720px, 100%);
   height: clamp(380px, 58vw, 500px);
   position: relative;
-  margin-top: clamp(2.6rem, 8vw, 4.2rem);
+  margin-top: clamp(8rem, 12vw, 10rem);
   cursor: pointer;
   display: flex;
   align-items: flex-end;
@@ -271,7 +271,7 @@
 
 .envelope-scene.front .letter {
   z-index: 6;
-  transform: translate(-50%, -70%);
+  transform: translate(-50%, -92%);
 }
 
 .confirm-button {
@@ -330,7 +330,7 @@
   }
 
   100% {
-    transform: translate(-50%, -122%);
+    transform: translate(-50%, -92%);
     z-index: 6;
   }
 }
