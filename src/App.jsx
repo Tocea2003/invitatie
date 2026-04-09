@@ -90,7 +90,7 @@ function App() {
                     Tocile
                   </p>
 
-                  <p className="letter-rsvp">Confirmarea se face până pe 28 Aprilie</p>
+                  <p className="letter-rsvp">Confirmarea se face până în 28 Aprilie</p>
                 </div>
               </article>
             )}
