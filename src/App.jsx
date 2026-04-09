@@ -6,7 +6,7 @@ function App() {
   const settleTimerRef = useRef(null)
 
   const whatsappLink =
-    'https://wa.me/40752291659?text=O%20sa%20fiu%20alaturi%20de%20tine%20in%20aceasta%20zi%20importanta%20!'
+    'https://wa.me/40752291659?text=O%20s%C4%83%20fiu%20al%C4%83turi%20de%20tine%20%C3%AEn%20aceast%C4%83%20zi%20important%C4%83%21'
 
   useEffect(() => {
     return () => {
